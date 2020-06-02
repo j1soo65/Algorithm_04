@@ -22,4 +22,25 @@
 ![mdoel1_predicted_wrong](https://user-images.githubusercontent.com/66271193/83518093-fbc2d480-a514-11ea-8820-f35e4729f015.png)
 
 
+[2]
+1. MODEL : model 2
+
+![model2_1](https://user-images.githubusercontent.com/66271193/83518507-7b50a380-a515-11ea-9a96-cbb8be201a9b.png)
+
+2. Training with training loss
+
+![model2_training](https://user-images.githubusercontent.com/66271193/83518515-7d1a6700-a515-11ea-92ea-2cca9d3c5dc7.png)
+
+3. Test accuracy
+
+![model2_accuracy](https://user-images.githubusercontent.com/66271193/83518523-80155780-a515-11ea-9397-cd5a73455b97.png)
+
+4. Images and corresponding probability that predicted Right
+
+![model2_predicted_right_1](https://user-images.githubusercontent.com/66271193/83518526-81df1b00-a515-11ea-87e1-6f3dbdfc29bd.png)
+
+5.Images and corresponding probability that predicted Wrong
+
+![model2_predicted_wrong](https://user-images.githubusercontent.com/66271193/83518781-dc787700-a515-11ea-819b-7fcb302b8e55.png)
+
 
